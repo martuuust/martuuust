@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,php,angular,html,css,bootstrap,mysql,mongodb,git,gitlab,vscode,aws,docker" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=9d00ff&center=true&vCenter=true&width=500&lines=Hi!+I'm+Marta;Web+Developer;Tech+Enthusiast" />
 </p>
 
 ---

@@ -4,6 +4,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,php,angular,html,css,bootstrap,mysql,mongodb,git,gitlab,vscode,aws,docker" />
+</p>
+
 ---
 
 ### 🌟 About Me
